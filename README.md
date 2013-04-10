@@ -1,17 +1,13 @@
 Some test-driven JS training source code.
 
-### app/spec/namespace.spec.js
+## Day 1
 
-Shows application of ``namespace`` pattern. As examples, there shown how non-namespaced code polutes global namespace. As special function ``app.namespace()`` is proposed as solution for the problem.
+Day 1 covers the history of JavaScript and some intoduction knowledge. It also covers such topics as: design patters, underscore.js library and templating engines.
 
-### app/spec/module.spec.js
+## Day 2
 
-Shows application of ``module`` pattern. Modules bring incapsulation prinicples for JS and keeps separation of concerns principles.
+Day 2 is focused on MV* frameworks. Backbone.js and Knockout.js as primary ones.
 
-### app/spec/underscore.spec.js
+### MIT Licenced
 
-Introduction to ``underscore.js`` swiss-knife JS library.
-
-### app/spec/templates.spec.js
-
-Demonstates principles of templating by utilizing ``_.tempate()`` engine. 
+(c) 2013 alexander.beletsky@gmail.com
